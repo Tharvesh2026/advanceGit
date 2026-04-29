@@ -3,18 +3,22 @@ Author: tharvesh2026 <tharvesh2026@gmail.com>
 Date:   Wed Apr 29 10:51:35 2026 +0000
 
     feat: touch file at main
-66c95c6 HEAD@{0}: cherry-pick: backup the feature branch on feature/login
-c594bb3 HEAD@{1}: checkout: moving from main to bug/login
-c594bb3 HEAD@{2}: checkout: moving from feature/login to main
-82b6c51 HEAD@{3}: commit: feat: create session feature/login
-40acea4 HEAD@{4}: commit: backup the feature branch on feature/login
-723ac17 HEAD@{5}: checkout: moving from main to feature/login
-c594bb3 HEAD@{6}: checkout: moving from feature to main
-c594bb3 HEAD@{7}: checkout: moving from main to feature
-c594bb3 HEAD@{8}: checkout: moving from bug/loginSession to main
-c594bb3 HEAD@{9}: checkout: moving from main to bug/loginSession
-c594bb3 HEAD@{10}: merge feature: Fast-forward
-723ac17 HEAD@{11}: checkout: moving from feature to main
-c594bb3 HEAD@{12}: commit: Making the entry of commit
-723ac17 HEAD@{13}: checkout: moving from main to feature
-723ac17 HEAD@{14}: commit (initial): feat: touch file at main
+=============
+aac593b HEAD@{0}: checkout: moving from main to bug/fix/login
+c594bb3 HEAD@{1}: checkout: moving from bug/login to main
+aac593b HEAD@{2}: commit: Fix login issue
+66c95c6 HEAD@{3}: cherry-pick: backup the feature branch on feature/login
+c594bb3 HEAD@{4}: checkout: moving from main to bug/login
+c594bb3 HEAD@{5}: checkout: moving from feature/login to main
+82b6c51 HEAD@{6}: commit: feat: create session feature/login
+40acea4 HEAD@{7}: commit: backup the feature branch on feature/login
+723ac17 HEAD@{8}: checkout: moving from main to feature/login
+c594bb3 HEAD@{9}: checkout: moving from feature to main
+c594bb3 HEAD@{10}: checkout: moving from main to feature
+c594bb3 HEAD@{11}: checkout: moving from bug/loginSession to main
+c594bb3 HEAD@{12}: checkout: moving from main to bug/loginSession
+c594bb3 HEAD@{13}: merge feature: Fast-forward
+723ac17 HEAD@{14}: checkout: moving from feature to main
+c594bb3 HEAD@{15}: commit: Making the entry of commit
+723ac17 HEAD@{16}: checkout: moving from main to feature
+723ac17 HEAD@{17}: commit (initial): feat: touch file at main
